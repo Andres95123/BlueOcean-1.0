@@ -1,5 +1,7 @@
 # BlueOcean-1.0
-BlueOcean es una App básica creada en C++ que permite Encriptar y Desencriptar un String de aproximadamente 50-60 Caracteres
+BlueOcean es una App básica creada en C++ que permite Encriptar y Desencriptar un String de aproximadamente 50-60 Caracteres. Si deseas calcular la dificultad de que desencripten tu mensaje o contraseña, haz la siguiente ecuación: 265^(Numero de caracteres de tu mensaje o password).
+
+Por ejemplo, pongo de Mensaje: Hola-Caracola --> 265^13 = 3,17831078^31 Posibilidades = +1,00783574^17 AÑOS para procesar todas las posibles combinaciones = Imposible de desencriptar sin la key.
 
 Una vez ejecutado BlueOcean-1.0 Deberás selecionar 1-Encriptar o 2-Desencriptar
 
