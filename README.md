@@ -18,4 +18,5 @@ algun caracter corrupto.
 ![alt text](https://github.com/Andres95123/BlueOcean-1.0/blob/c438ad833578e32a9605898501992e5a8c4455a5/BlueOcean/Desencriptar.PNG)
 
 Si deseeas utilizar esta aplicación esta bajo los derechos 
-- CREATIVE COMMONS Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+- CREATIVE COMMONS Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+- https://creativecommons.org/licenses/by-nc-sa/4.0/
