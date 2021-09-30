@@ -6,7 +6,7 @@ Una vez ejecutado BlueOcean-1.0 Deberás selecionar 1-Encriptar o 2-Desencriptar
 ![alt text](https://github.com/Andres95123/BlueOcean-1.0/blob/c438ad833578e32a9605898501992e5a8c4455a5/BlueOcean/Elije.PNG)
 
 1) Si presionas 1, podrás introducir directamente la cadena de caracteres que desees encriptar, con un maximo de 50-60. Si te pasas te saldrá un error o crasheará
-  - Seguido de eso te saldrá tu texto encriptado y la Key para desencriptarlo. Se recomienda evitar que el texto encriptado tenga tabuladores o espacios.
+  - Seguido de eso te saldrá tu texto encriptado y la Key para desencriptarlo. Se recomienda evitar que el texto encriptado tenga tabuladores o espacios. Para utilizar espacios utiliza el caracter '-', ya que esta APP no accepta el uso de espacios.
 
 ![alt text](https://github.com/Andres95123/BlueOcean-1.0/blob/c438ad833578e32a9605898501992e5a8c4455a5/BlueOcean/Encriptar.PNG)
 
